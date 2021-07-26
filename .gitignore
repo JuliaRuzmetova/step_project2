@@ -1,3 +1,9 @@
-node_modules/*
+# node modules
+node_modules
+
+# gulp js
 gulpfile.js
+
+# package lock file
 package-lock.json
+
